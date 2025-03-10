@@ -31,3 +31,6 @@ You can find the certificates I received throughout my education in this repo.
 ## C# İle 25 Derste 25 Uygulamalı Proje
 ![C# İle 25 Derste 25 Uygulamalı Proje](https://github.com/user-attachments/assets/6cef36e8-9bb8-45a5-9135-f334e775af7c)
 
+## Sorgularla Adım Adım SQL Veri Tabanı Programlama
+![Sorgularla Adım Adım SQL Veri Tabanı Programlama](https://github.com/user-attachments/assets/5157d738-bb90-4c23-a911-1a8245e430eb)
+
