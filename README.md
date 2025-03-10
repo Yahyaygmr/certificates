@@ -15,4 +15,7 @@ You can find the certificates I received throughout my education in this repo.
 ## ASP.NET Core MVC
 ![Asp  Net Core MVC 2025-03-10 114227](https://github.com/user-attachments/assets/6af16d8c-7c16-493c-89fa-2bb57854718a)
 
+## 	C# Programlama
+![C# Programlama 2025-03-10 114549](https://github.com/user-attachments/assets/747942a7-618f-4420-a798-6badc4b2003c)
+
 
