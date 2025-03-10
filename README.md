@@ -9,4 +9,7 @@ You can find the certificates I received throughout my education in this repo.
 ## Güvenli Yazılım Geliştirme
 ![Güvenli Yazılım Geliştirme 2025-03-10 113449](https://github.com/user-attachments/assets/bc8a50a5-d85b-4e1e-97e1-e606c6911b1d)
 
+## Veri tabanı Saldırıları ve Veri tabanı Güvenliği
+![Veritabanı Saldırıları ve Veri Güvenliği 2025-03-10 113810](https://github.com/user-attachments/assets/20b90d51-e0c9-402e-ab7a-ad0d74836a02)
+
 
