@@ -34,3 +34,6 @@ You can find the certificates I received throughout my education in this repo.
 ## Sorgularla Adım Adım SQL Veri Tabanı Programlama
 ![Sorgularla Adım Adım SQL Veri Tabanı Programlama](https://github.com/user-attachments/assets/5157d738-bb90-4c23-a911-1a8245e430eb)
 
+## Asp.Net ile Cv Sitesi ve Film & Dizi Yorum Sitesi Projeleri
+![Asp Net ile Cv Sitesi ve Film   Dizi Yorum Sitesi Projeleri](https://github.com/user-attachments/assets/9d024413-0f7a-47dd-b498-05841932957a)
+
