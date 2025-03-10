@@ -12,4 +12,7 @@ You can find the certificates I received throughout my education in this repo.
 ## Veri tabanı Saldırıları ve Veri tabanı Güvenliği
 ![Veritabanı Saldırıları ve Veri Güvenliği 2025-03-10 113810](https://github.com/user-attachments/assets/20b90d51-e0c9-402e-ab7a-ad0d74836a02)
 
+## ASP.NET Core MVC
+![Asp  Net Core MVC 2025-03-10 114227](https://github.com/user-attachments/assets/6af16d8c-7c16-493c-89fa-2bb57854718a)
+
 
