@@ -37,3 +37,6 @@ You can find the certificates I received throughout my education in this repo.
 ## Asp.Net ile Cv Sitesi ve Film & Dizi Yorum Sitesi Projeleri
 ![Asp Net ile Cv Sitesi ve Film   Dizi Yorum Sitesi Projeleri](https://github.com/user-attachments/assets/9d024413-0f7a-47dd-b498-05841932957a)
 
+## Asp.Net Core Security
+![Asp Net Core Security](https://github.com/user-attachments/assets/165ee2ca-5f25-40cc-b08d-1572efbd8fe4)
+
