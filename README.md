@@ -40,3 +40,9 @@ You can find the certificates I received throughout my education in this repo.
 ## Asp.Net Core Security
 ![Asp Net Core Security](https://github.com/user-attachments/assets/165ee2ca-5f25-40cc-b08d-1572efbd8fe4)
 
+## E-Fatura Oluşturma ve Görüntüleme 
+### Part 1
+![E-Fatura Oluşturma ve Görüntüleme  1](https://github.com/user-attachments/assets/5881149b-c508-406f-b80b-ea5a595dd104)
+### Part 2
+![E-Fatura Oluşturma ve Görüntüleme  2](https://github.com/user-attachments/assets/d0d605ca-a509-4818-b9c0-bb8cf460f276)
+
